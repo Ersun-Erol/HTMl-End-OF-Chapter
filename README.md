@@ -1,5 +1,7 @@
 # HTMl-End-OF-Chapter
-Kodluyoruz Frotend bölüm sonu ödevi için örnek ödev üzerinden hazırlamış olduğum htm sayfası.
+
+
+###Kodluyoruz Frotend bölüm sonu ödevi için örnek ödev üzerinden hazırlamış olduğum htm sayfası.
 ---
 
 ![EkranResmi](tatl%C4%B1.jpg)
